@@ -8,7 +8,7 @@ const Footer = () => (
     borderTop="1px"
     borderColor="gray.100"
   >
-      2022 Blue Sky, Inc. 
+      2023 ENTAILE INVESTMENTS LIMITED, Real Estate Developers. 
   </Box>
 );
 
