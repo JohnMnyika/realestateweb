@@ -33,7 +33,7 @@ const PropertyDetails = ({
             {isVerified && <GoVerified />}
           </Box>
           <Text fontWeight="bold" fontSize="lg">
-          Ksh {millify(price)}
+          USD {millify(price)}
             {rentFrequency && `/${rentFrequency}`}
           </Text>
         </Flex>
